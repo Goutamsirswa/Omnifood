@@ -1,0 +1,160 @@
+.o-s-heading{
+    margin-bottom: 1rem;
+}
+.o-s-paragraph{
+    margin-bottom: 3rem;
+}
+.hero-img{
+    width: 100%;
+}
+.hero-section{
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    gap: 5rem;
+    background-color: #fcf2e9;
+}
+.omnifood-service{
+    width: 87%;
+    
+}
+.btn-learnmore{
+    background-color: #fff !important;
+    color: black !important;
+}
+.customer{
+    margin-top: 5rem;
+    align-items: center;
+    display: flex;
+}
+.customers-img{
+    margin-left: 20px;
+    
+}
+.customers-img img{
+    width: 40px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: -20px;
+}
+.meals-delivered{
+    margin-left: 1rem;
+    
+}
+.meals-delivered span{
+    color: #e58223;
+}
+/* section-3 */
+.features p{
+    text-align: center;
+}
+.features{
+    padding: 3rem 6rem;
+}
+.featured-img{
+    display: flex;
+    gap: 4rem;
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+    justify-content: center;
+}
+.featured-img img{
+    width: 150px;
+    height: 30px;
+    opacity: 50%;
+    filter: brightness(0);
+}
+.app-img img{
+    width: 17rem;
+    height: 31rem;
+    /* margin-left: -336px; */
+}
+.app-img{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.app-img::before{
+    background: #fcf2e9;
+    z-index: -2;
+    padding-bottom: 25rem;
+    width: 25rem;
+}
+.app-img::after{
+    background: #cec3ba71;
+    padding-bottom: 25rem; 
+    z-index: -1;
+    width: 21rem;
+ } 
+ .a-d{
+     column-gap: 6rem;
+ }
+ .meals-feature{
+     margin: 4rem 0;
+ }
+ .meals{
+   
+     border-radius: 12px;
+     overflow: hidden;
+     box-shadow: 1px 4px 10px 2px rgba(2, 14, 2, 0.527);
+     transition: all 0.5s;
+
+ }
+ .meals:hover{
+     transform:translateY(-10px);
+ }
+ .section-meals{
+     margin: 5rem 0;
+ }
+ .center{
+     text-align: center;
+ }
+ .meals-img img{
+     width: 100%;
+ }
+ .meals-feature{
+     column-gap: 4rem;
+ }
+ .M-text{
+    list-style: none;
+    line-height: 1.4;
+ }
+ .M-text span{
+     color: rgba(255, 166, 0, 0.89);
+     font-size: 19px;
+ }
+ .meals-btn{
+     padding: 2px 8px;
+     font-size: 14px;
+     border-radius: 11px;
+     text-decoration: none;
+     background: rgba(0, 128, 0, 0.658);
+    }
+    .VG{
+        background: rgba(0, 128, 0, 0.527);
+    }
+    .PALEO{
+        background: rgb(8, 226, 8);
+ }
+ .meals-discription{
+     margin: 20px 30px;
+ }
+ .meals-hd{
+     margin: 8px 0;
+ }
+ .diet-heading{
+     font-size: 2rem;
+     margin-bottom: 2rem;
+ }
+ .diet-feature{
+     list-style: none;
+     line-height: 1.8;
+ }
+ .check-setting{
+     color:green;
+     width: 2rem;
+ }
+ .diet-feature li{
+     font-size: 20px;
+     color: rgba(0, 0, 0, 0.596);
+ }
